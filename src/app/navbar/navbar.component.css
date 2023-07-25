@@ -1,0 +1,21 @@
+.logo{
+    height: 140px;
+    width: 140px;
+}
+.navbar{
+    background-color: white!important;
+   
+}
+.navbar-brand{
+    padding: 0px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: #198754;
+}
+@media screen and (max-width: 768px) {
+    .logo{
+        height: 100px;
+        width: 100px;
+    }
+
+}
